@@ -8,17 +8,17 @@ img{
     background-size: cover;
     width: 170px;
     // border-radius: 20px;
-    border-top-left-radius: 30px;
+    border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 .card{
-    box-shadow: 2px 2px 3px 1px;
+    box-shadow: 2px 2px 3px 1px ;
     margin-bottom: 10px;
     position: relative;
     border-radius: 20px;
-
+    margin: 10px;
     height: 26vh;
 }
 .content{
@@ -26,6 +26,9 @@ img{
     margin-right: 40px;
     margin-top: 10px;
   
+}
+.item{
+    box-shadow: 2px 2px 3px;
 }
 .butt{
     left: 110px;
